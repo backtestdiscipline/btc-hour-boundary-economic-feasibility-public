@@ -1,0 +1,9 @@
+BTC hour-boundary economic feasibility — notices
+
+Copyright 2026 Mikhail Klemin. Original Go source in study/ and cmd/ is licensed under Apache License 2.0; see LICENSE. This does not license the separately maintained private research-platform dependency.
+
+Source: Binance Vision BTCUSDT spot one-minute archives, https://data.binance.vision/?prefix=data/spot/monthly/klines/BTCUSDT/1m/. Backtest Discipline calculated signed and absolute log returns, hypothetical cost-adjusted oracle returns and aggregates. Credit Binance Vision and Backtest Discipline. Covered derived analytical results are offered under CC BY-NC-SA 4.0, subject to the applicable Binance Vision Dataset Terms and general terms:
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+https://github.com/binance/binance-public-data/blob/master/TERMS_AND_CONDITIONS.md
+
+This notice does not relicense unrelated prose, source data, or the private platform. Raw archives and timestamped price series are not distributed here. Binance does not endorse this work. The Go standard library and toolchain are governed separately: https://go.dev/LICENSE.
